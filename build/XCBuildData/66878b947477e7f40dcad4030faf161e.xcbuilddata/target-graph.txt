@@ -1,0 +1,16 @@
+Target dependency graph (6 targets)
+Target 'EquityGroupTest' in project 'EquityGroupTest'
+➜ Implicit dependency on target 'Pods-EquityGroupTest' in project 'Pods' via file 'Pods_EquityGroupTest.framework' in build phase 'Link Binary'
+➜ Implicit dependency on target 'SwiftAlgorithms' in project 'Pods' via options '-framework Algorithms' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'Charts' in project 'Pods' via options '-framework Charts' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'SDWebImage' in project 'Pods' via options '-framework SDWebImage' in build setting 'OTHER_LDFLAGS'
+Target 'Pods-EquityGroupTest' in project 'Pods'
+➜ Explicit dependency on target 'Charts' in project 'Pods'
+➜ Explicit dependency on target 'SDWebImage' in project 'Pods'
+➜ Explicit dependency on target 'SwiftAlgorithms' in project 'Pods'
+Target 'SDWebImage' in project 'Pods'
+➜ Explicit dependency on target 'SDWebImage-SDWebImage' in project 'Pods'
+Target 'SDWebImage-SDWebImage' in project 'Pods' (no dependencies)
+Target 'Charts' in project 'Pods'
+➜ Explicit dependency on target 'SwiftAlgorithms' in project 'Pods'
+Target 'SwiftAlgorithms' in project 'Pods' (no dependencies)

@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/administrator/Desktop/Projects/EquityGroupTest/build/Debug-iphonesimulator/SwiftAlgorithms/Algorithms.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/administrator/Desktop/Projects/EquityGroupTest/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/administrator/Desktop/Projects/EquityGroupTest/build/Debug-iphonesimulator/SwiftAlgorithms/Algorithms.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "Algorithms-Swift.h",
+      'external-contents': "/Users/administrator/Desktop/Projects/EquityGroupTest/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/unextended-interface-header.h",
+    }]
+    }]
+}

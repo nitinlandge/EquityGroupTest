@@ -1,0 +1,98 @@
+{
+  "" : {
+    "diagnostics" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/EquityGroupTest-master.dia",
+    "emit-module-dependencies" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/EquityGroupTest-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/EquityGroupTest-master-emit-module.dia",
+    "swift-dependencies" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/EquityGroupTest-master.swiftdeps"
+  },
+  "/Users/administrator/Desktop/Projects/EquityGroupTest/EquityGroupTest/AppDelegate.swift" : {
+    "const-values" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/AppDelegate.d",
+    "diagnostics" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/AppDelegate.dia",
+    "index-unit-output-path" : "/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/AppDelegate.o",
+    "llvm-bc" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/AppDelegate.bc",
+    "object" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/AppDelegate.o",
+    "swift-dependencies" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/administrator/Desktop/Projects/EquityGroupTest/EquityGroupTest/Cell/CoinTableViewCell.swift" : {
+    "const-values" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/CoinTableViewCell.swiftconstvalues",
+    "dependencies" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/CoinTableViewCell.d",
+    "diagnostics" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/CoinTableViewCell.dia",
+    "index-unit-output-path" : "/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/CoinTableViewCell.o",
+    "llvm-bc" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/CoinTableViewCell.bc",
+    "object" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/CoinTableViewCell.o",
+    "swift-dependencies" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/CoinTableViewCell.swiftdeps",
+    "swiftmodule" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/CoinTableViewCell~partial.swiftmodule"
+  },
+  "/Users/administrator/Desktop/Projects/EquityGroupTest/EquityGroupTest/CoinDetailViewController.swift" : {
+    "const-values" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/CoinDetailViewController.swiftconstvalues",
+    "dependencies" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/CoinDetailViewController.d",
+    "diagnostics" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/CoinDetailViewController.dia",
+    "index-unit-output-path" : "/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/CoinDetailViewController.o",
+    "llvm-bc" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/CoinDetailViewController.bc",
+    "object" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/CoinDetailViewController.o",
+    "swift-dependencies" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/CoinDetailViewController.swiftdeps",
+    "swiftmodule" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/CoinDetailViewController~partial.swiftmodule"
+  },
+  "/Users/administrator/Desktop/Projects/EquityGroupTest/EquityGroupTest/CoinListViewController.swift" : {
+    "const-values" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/CoinListViewController.swiftconstvalues",
+    "dependencies" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/CoinListViewController.d",
+    "diagnostics" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/CoinListViewController.dia",
+    "index-unit-output-path" : "/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/CoinListViewController.o",
+    "llvm-bc" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/CoinListViewController.bc",
+    "object" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/CoinListViewController.o",
+    "swift-dependencies" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/CoinListViewController.swiftdeps",
+    "swiftmodule" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/CoinListViewController~partial.swiftmodule"
+  },
+  "/Users/administrator/Desktop/Projects/EquityGroupTest/EquityGroupTest/CoinResponse.swift" : {
+    "const-values" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/CoinResponse.swiftconstvalues",
+    "dependencies" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/CoinResponse.d",
+    "diagnostics" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/CoinResponse.dia",
+    "index-unit-output-path" : "/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/CoinResponse.o",
+    "llvm-bc" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/CoinResponse.bc",
+    "object" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/CoinResponse.o",
+    "swift-dependencies" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/CoinResponse.swiftdeps",
+    "swiftmodule" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/CoinResponse~partial.swiftmodule"
+  },
+  "/Users/administrator/Desktop/Projects/EquityGroupTest/EquityGroupTest/FavoritesViewController.swift" : {
+    "const-values" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/FavoritesViewController.swiftconstvalues",
+    "dependencies" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/FavoritesViewController.d",
+    "diagnostics" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/FavoritesViewController.dia",
+    "index-unit-output-path" : "/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/FavoritesViewController.o",
+    "llvm-bc" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/FavoritesViewController.bc",
+    "object" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/FavoritesViewController.o",
+    "swift-dependencies" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/FavoritesViewController.swiftdeps",
+    "swiftmodule" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/FavoritesViewController~partial.swiftmodule"
+  },
+  "/Users/administrator/Desktop/Projects/EquityGroupTest/EquityGroupTest/NetworkManager.swift" : {
+    "const-values" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/NetworkManager.swiftconstvalues",
+    "dependencies" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/NetworkManager.d",
+    "diagnostics" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/NetworkManager.dia",
+    "index-unit-output-path" : "/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/NetworkManager.o",
+    "llvm-bc" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/NetworkManager.bc",
+    "object" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/NetworkManager.o",
+    "swift-dependencies" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/NetworkManager.swiftdeps",
+    "swiftmodule" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/NetworkManager~partial.swiftmodule"
+  },
+  "/Users/administrator/Desktop/Projects/EquityGroupTest/EquityGroupTest/SceneDelegate.swift" : {
+    "const-values" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/SceneDelegate.swiftconstvalues",
+    "dependencies" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/SceneDelegate.d",
+    "diagnostics" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/SceneDelegate.dia",
+    "index-unit-output-path" : "/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/SceneDelegate.o",
+    "llvm-bc" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/SceneDelegate.bc",
+    "object" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/SceneDelegate.o",
+    "swift-dependencies" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/SceneDelegate.swiftdeps",
+    "swiftmodule" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/SceneDelegate~partial.swiftmodule"
+  },
+  "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/administrator/Desktop/Projects/EquityGroupTest/build/EquityGroupTest.build/Debug-iphonesimulator/EquityGroupTest.build/Objects-normal/x86_64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

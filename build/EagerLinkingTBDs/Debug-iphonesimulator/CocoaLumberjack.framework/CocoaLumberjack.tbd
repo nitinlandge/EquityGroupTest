@@ -1,0 +1,135 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_kDDDefaultLogMaxFileSize",
+            "_DDQualityOfServiceUserInteractive",
+            "_DDQualityOfServiceUtility",
+            "_DDQualityOfServiceUserInitiated",
+            "_DDLoggerNameFile",
+            "_kDDDefaultLogMaxNumLogFiles",
+            "_kDDRollingLeeway",
+            "_DDQualityOfServiceBackground",
+            "_DDLoggerNameOS",
+            "_kDDDefaultLogFilesDiskQuota",
+            "_DDQualityOfServiceDefault",
+            "_kDDDefaultLogRollingFrequency",
+            "_CocoaLumberjackVersionString",
+            "_CocoaLumberjackVersionNumber",
+            "_DDQualityOfServiceUnspecified",
+            "_kDDASLKeyDDLog",
+            "_DDLoggerNameASL",
+            "_DDLoggerNameTTY",
+            "_kDDASLDDLogValue"
+          ],
+          "objc_class": [
+            "DDFileLogPlainTextMessageSerializer",
+            "DDLogFileInfo",
+            "DDTTYLoggerColorProfile",
+            "DDLogFileManagerDefault",
+            "DDOSLogLevelMapperSimulatorConsoleAppWorkaround",
+            "DDContextDenylistFilterLogFormatter",
+            "DDLog",
+            "DDContextAllowlistFilterLogFormatter",
+            "DDLoggerInformation",
+            "DDLogFileFormatterDefault",
+            "DDTTYLogger",
+            "DDLogMessage",
+            "DDOSLogger",
+            "DDDispatchQueueLogFormatter",
+            "DDLoggingContextSet",
+            "DDBufferedProxy",
+            "DDLoggerNode",
+            "DDAbstractLogger",
+            "PodsDummy_CocoaLumberjack",
+            "DDOSLogLevelMapperDefault",
+            "DDAbstractDatabaseLogger",
+            "DDASLLogger",
+            "DDAtomicCounter",
+            "DDMultiFormatter",
+            "DDFileLogger",
+            "DDASLLogCapture"
+          ],
+          "objc_ivar": [
+            "DDTTYLoggerColorProfile.fgCodeRaw",
+            "DDTTYLoggerColorProfile.resetCode",
+            "DDTTYLoggerColorProfile.context",
+            "DDLogMessage._message",
+            "DDAbstractDatabaseLogger._deleteOnEverySave",
+            "DDTTYLoggerColorProfile.resetCodeLen",
+            "DDAbstractDatabaseLogger._lastDeleteTime",
+            "DDTTYLoggerColorProfile.bg",
+            "DDLoggerNode._loggerQueue",
+            "DDLogMessage._threadName",
+            "DDLogMessage._messageFormat",
+            "DDLoggerInformation._logger",
+            "DDLogMessage._context",
+            "DDTTYLoggerColorProfile.fgCodeLen",
+            "DDLoggerNode._logger",
+            "DDLogMessage._representedObject",
+            "DDAbstractDatabaseLogger._saveInterval",
+            "DDAbstractLogger._loggerQueue",
+            "DDAbstractDatabaseLogger._unsavedTime",
+            "DDAbstractDatabaseLogger._deleteTimer",
+            "DDLogMessage._function",
+            "DDTTYLoggerColorProfile.bgCodeRaw",
+            "DDTTYLoggerColorProfile.mask",
+            "DDAbstractDatabaseLogger._saveTimerSuspended",
+            "DDLogMessage._fileName",
+            "DDLoggerNode._level",
+            "DDAbstractDatabaseLogger._maxAge",
+            "DDLogMessage._file",
+            "DDTTYLoggerColorProfile.bgCodeIndex",
+            "DDLogMessage._flag",
+            "DDLoggerInformation._level",
+            "DDLogMessage._threadID",
+            "DDLogMessage._options",
+            "DDTTYLoggerColorProfile.fgCodeIndex",
+            "DDLogMessage._timestamp",
+            "DDAbstractLogger._logFormatter",
+            "DDAbstractDatabaseLogger._unsavedCount",
+            "DDLogMessage._qos",
+            "DDTTYLoggerColorProfile.bgCodeLen",
+            "DDTTYLoggerColorProfile.fgCode",
+            "DDAbstractDatabaseLogger._saveTimer",
+            "DDLogMessage._line",
+            "DDLogMessage._level",
+            "DDLogMessage._queueLabel",
+            "DDTTYLoggerColorProfile.fg",
+            "DDTTYLoggerColorProfile.bgCode",
+            "DDLogMessage._tag",
+            "DDAbstractDatabaseLogger._deleteInterval",
+            "DDAbstractDatabaseLogger._saveThreshold"
+          ]
+        },
+        "text": {
+          "global": [
+            "_doesAppRunInBackground",
+            "_DDExtractFileNameWithoutExtension"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/CocoaLumberjack.framework/CocoaLumberjack"
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "13",
+        "target": "x86_64-ios-simulator"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}

@@ -1,0 +1,162 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_SVGKitVersionString",
+            "_SVGKitVersionNumber"
+          ],
+          "objc_class": [
+            "SVGDocument",
+            "Text",
+            "SVGKSourceNSData",
+            "SVGLineElement",
+            "SVGSwitchElement",
+            "Attr",
+            "CSSPrimitiveValue",
+            "SVGKImageCacheLine",
+            "SVGTextElement",
+            "SVGClipPathElement",
+            "SVGKParser",
+            "DOMHelperUtilities",
+            "NamedNodeMap",
+            "SVGRectElement",
+            "StyleSheet",
+            "CSSRuleList",
+            "SVGKParserStyles",
+            "SVGDefsElement",
+            "SVGEllipseElement",
+            "SVGStyleElement",
+            "SVGElementInstanceList",
+            "CAShapeLayerWithHitTest",
+            "SVGTextPositioningElement",
+            "AppleSucksDOMImplementation",
+            "SVGKit",
+            "CSSStyleSheet",
+            "PodsDummy_SVGKit",
+            "ProcessingInstruction",
+            "SVGKLayer",
+            "SVGPolygonElement",
+            "EntityReference",
+            "SVGGradientElement",
+            "SVGElementInstance",
+            "SVGAngle",
+            "SVGKPattern",
+            "CDATASection",
+            "SVGElement",
+            "SVGKLayeredImageView",
+            "SVGGradientLayer",
+            "SVGPathElement",
+            "SVGGradientStop",
+            "SVGTextContentElement",
+            "Element",
+            "SVGPolylineElement",
+            "CALayerWithClipRender",
+            "BaseClassForAllSVGBasicShapes",
+            "Comment",
+            "CALayerWithChildHitTest",
+            "CSSStyleRule",
+            "CSSValue",
+            "SVGKPointsAndPathsParser",
+            "MediaList",
+            "SVGImageElement",
+            "TinySVGTextAreaElement",
+            "SVGKParseResult",
+            "SVGCircleElement",
+            "CSSValueList",
+            "NodeList",
+            "CAShapeLayerWithClipRender",
+            "Node",
+            "SVGTransform",
+            "SVGHelperUtilities",
+            "DocumentType",
+            "SVGLinearGradientElement",
+            "Document",
+            "SVGSVGElement",
+            "SVGPoint",
+            "SVGTitleElement",
+            "SVGKParserDefsAndUse",
+            "StyleSheetList",
+            "SVGKSource",
+            "SVGKImage",
+            "SVGKSourceLocalFile",
+            "SVGKParserPatternsAndGradients",
+            "SVGRadialGradientElement",
+            "DocumentFragment",
+            "CharacterData",
+            "SVGKParserSVG",
+            "SVGDescriptionElement",
+            "SVGKFastImageView",
+            "SVGKParserGradient",
+            "SVGKSourceURL",
+            "CSSStyleDeclaration",
+            "SVGKParserDOM",
+            "SVGKExporterNSData",
+            "SVGGElement",
+            "SVGGroupElement",
+            "SVGAnimatedPreserveAspectRatio",
+            "SVGKImageView",
+            "SVGPreserveAspectRatio",
+            "SVGKExporterUIImage",
+            "SVGKSourceString",
+            "SVGLength",
+            "CSSRule",
+            "SVGMatrix",
+            "SVGUseElement"
+          ],
+          "objc_ivar": [
+            "BaseClassForAllSVGBasicShapes._layerRect",
+            "SVGKParserGradient.currentElement",
+            "CSSValue._cssText",
+            "BaseClassForAllSVGBasicShapes._styleClass",
+            "SVGKImage.cameFromGlobalCache"
+          ]
+        },
+        "text": {
+          "global": [
+            "_getCurrentlyParsingParser",
+            "_CGPathCreateByOffsettingPath",
+            "_SVGPercentageFromString",
+            "_CGColorWithSVGColor",
+            "_SVGImageCGImage",
+            "_SVGRectMake",
+            "_SVGRectIsInitialized",
+            "_fixInfinity",
+            "_applier",
+            "_ColorValueWithName",
+            "_CGPathCreateByTranslatingPath",
+            "_SVGRectUninitialized",
+            "_createPathFromPointsInString",
+            "_CGRectFromSVGRect",
+            "_CGSizeFromSVGRect",
+            "_SVGColorFromString",
+            "_NSStringFromSVGRect",
+            "_SVGColorMake",
+            "_fixPointsInfinity",
+            "_applyPathTranslation"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/SVGKit.framework/SVGKit"
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "13",
+        "target": "x86_64-ios-simulator"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}
